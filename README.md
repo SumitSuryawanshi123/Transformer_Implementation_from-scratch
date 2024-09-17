@@ -1,4 +1,4 @@
-# Transformer Implementation from Scratch
+# Transformer Implementation from Scratch using PyTorch
 
 <div style="display: flex; align-items: center;">
     <img src="Images/image.png" alt="Transformer Architecture" style="width: 400px; margin-right: 20px;" />
